@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wsock32", "wsock32.vcxproj", "{33FFADA8-BD4B-4A6A-93B8-14DBCC5F55CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33FFADA8-BD4B-4A6A-93B8-14DBCC5F55CA}.Debug|x86.ActiveCfg = Debug|Win32
+		{33FFADA8-BD4B-4A6A-93B8-14DBCC5F55CA}.Debug|x86.Build.0 = Debug|Win32
+		{33FFADA8-BD4B-4A6A-93B8-14DBCC5F55CA}.Release|x86.ActiveCfg = Release|Win32
+		{33FFADA8-BD4B-4A6A-93B8-14DBCC5F55CA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3FBDEE8-157A-42C9-86BF-8D5A5C638CF9}
+	EndGlobalSection
+EndGlobal
